@@ -1,12 +1,12 @@
 # About Me
 
-Hello, I'm Manav Bijlani, currently in my second year pursuing a Bachelor's degree in Computer Science at The University of Adelaide.
+Hello, I'm Manav Bijlani, currently in my final year pursuing a Bachelor's degree in Computer Science at The University of Adelaide. I am a motivated individual with a passion for problem-solving, software development and AI. I consider myself a lifelong learner, constantly seeking knowledge from various sources and engaging with like-minded tech enthusiasts.
 
-I am a motivated individual with a passion for problem-solving and STEM technologies. I consider myself a lifelong learner, constantly seeking education from various sources and engaging with like-minded tech enthusiasts. In my free time, I enjoy reading non-fiction books and focusing on personal development.
 
-My interest in algorithmic coding and data analysis has driven me to work on several projects throughout my first year at university. Currently, I am also engaged in an internship project at the Australian Institute of Machine Learning under the supervision of a Ph.D. Professor.
+With over 2 years of experience in the software industry, I have a proven ability to quickly adapt to new technologies, with a solid background in modern software development practices, version control, AI chatbot delivery, and both frontend and backend web development. I consistently deliver robust, scalable, and user-friendly solutions tailored to meet diverse business needs.
 
-In the future, I aspire to become a software engineer, contributing to the development of innovative products while continuously enhancing my technical and soft skills. I am actively seeking internships and entry-level programming positions to further my career goals.
+
+In my free time, I enjoy reading non fiction books and focusing on personal development.
 
 
 # Featured
