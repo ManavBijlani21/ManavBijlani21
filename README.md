@@ -1,9 +1,3 @@
-+13
--35
-
-
-Original file line number	Original file line	Diff line number	Diff line change
-@@ -1,40 +1,18 @@
 # 💫 About Me:
 Hello, I'm Manav Bijlani, currently in my final year pursuing a Bachelor's degree in Computer Science at The University of Adelaide. <br>I am a motivated individual with a passion for problem-solving, software development and AI. <br>I consider myself a lifelong learner, constantly seeking knowledge from various sources and engaging with like-minded tech enthusiasts.<br><br>With over 2 years of experience in the software industry, I have a proven ability to quickly adapt to new technologies, with a solid background<br> in modern software development practices, version control, AI chatbot delivery, and both frontend and backend web development.<br>I consistently deliver robust, scalable, and user-friendly solutions tailored to meet diverse business needs.<br><br>In my free time, I enjoy reading non fiction books and focusing on personal development.
 
